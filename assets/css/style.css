@@ -1133,6 +1133,8 @@ p.banner_pera:after {
 }
 .selfintro_section .right_section p.about_deatils {
     margin-bottom: 20px;
+    font-size: 18px;
+    text-align: justify;
 }
 .signature_box {
     display: flex;
