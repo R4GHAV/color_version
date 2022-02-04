@@ -23,7 +23,7 @@ if(isset($_POST) && !empty($_POST)){
 	}
 	
 	if($sendMessage != ''){
-		$fromEmail = 'support@cv_and_resume.com';
+		$fromEmail = 'rgandotra14@gmail.com';
 		$toEmail = 'hdevansh@gmail.com';
 		
 		$headers = "MIME-Version: 1.0" . "\r\n";
